@@ -1,0 +1,3 @@
+mkdir hellowolrd
+cd helloworld
+git init
